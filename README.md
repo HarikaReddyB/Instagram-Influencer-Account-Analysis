@@ -8,6 +8,6 @@ Tech Influencer is focused on promoting electronic gadgets, and tech tips. Their
 - This analysis aims to understand how the content is performing and gain more information the audience preferences and access the overall effectiveness of the influencer’s strategy to drive engagement and reach.
 
 # Key Metrics:
-![Screenshot (341)](https://github.com/user-attachments/assets/3e91ff05-f51d-41b7-99f9-8563b2414dd9)
+![Screenshot (344)](https://github.com/user-attachments/assets/80c0f495-7244-46e3-98bc-78508448382a)
 
 
