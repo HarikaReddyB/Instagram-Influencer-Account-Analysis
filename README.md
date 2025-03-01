@@ -41,11 +41,17 @@ Tech Influencer is focused on promoting electronic gadgets, and tech tips. Their
 ► Try to end the post content with questions hooks to create more engagement.
 
 ► Respond to the comments and add strong captions with CTA’s ( Call To Actions).
+
 ► Add relevant hashtags
+
 ► Schedule Instagram posts at peak hour and use IG stories to promote the post.
+
 ► Optimize the hashtags according to trends.
+
 ► Host live session via Instagram to connect with audience.
+
 ► Post unboxing content or behind the scenes to show case your work and challenges. 
+
 ► Collaborate with other tech influencers, it will help in reaching wider audience and drive new followers.
 
 # Tools Used:
