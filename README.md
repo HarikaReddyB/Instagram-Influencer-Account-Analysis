@@ -11,10 +11,14 @@ Tech Influencer is focused on promoting electronic gadgets, and tech tips. Their
 ![Screenshot (344)](https://github.com/user-attachments/assets/80c0f495-7244-46e3-98bc-78508448382a)
 
 # Insights
-➜ 𝐈𝐆 𝐑𝐞𝐞𝐥𝐬 have the highest Impressions – (𝟑𝟑𝟗.𝟕𝟏𝐤), and 𝐈𝐆 𝐂𝐚𝐫𝐨𝐮𝐬𝐞𝐥 has the lowest Impressions  - (𝟑.𝟐𝟔𝐤)
+➜ 𝐈𝐆 𝐑𝐞𝐞𝐥𝐬 have the highest Impressions – (𝟑𝟑𝟗.𝟕𝟏𝐤), and 𝐈𝐆 𝐂𝐚𝐫𝐨𝐮𝐬𝐞𝐥 has the lowest Impressions  - (𝟑.𝟐𝟔𝐤).
+
 ➜ 𝐌𝐚𝐲 has the highest no.of profile visits (𝟏𝟎𝟕𝐤), whereas 𝐉𝐮𝐧𝐞 has the highest no.of new followers (𝟕𝟕𝐤).
+
 ➜ 𝐅𝐞𝐛𝐫𝐮𝐚𝐫𝐲 has the lowest profile visits and new followers.
+
 ➜ 𝐓𝐞𝐜𝐡𝐓𝐢𝐩𝐬 is the 2nd best-performing category with 𝟐𝟎𝐤 𝐥𝐢𝐤𝐞𝐬. 
+
 ➜ 𝐌𝐚𝐲 has the highest post-category count at 6, while 𝐉𝐚𝐧𝐮𝐚𝐫𝐲 has the lowest count at 3.
 ➜ 𝐈𝐆 𝐑𝐞𝐞𝐥𝐬 has the highest reach of 𝟔𝟏.𝟔𝟑%, and 𝐈𝐆 𝐂𝐚𝐫𝐨𝐮𝐬𝐞𝐥 has the lowest reach 𝟎.𝟔𝟗%. 
 ➜ 𝐐𝟐 has the highest engagement (in saves and comments).
